@@ -1,7 +1,7 @@
-(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4aab17173232445.648c760225de3.png)
+![I am a Shopify Expert.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4aab17173232445.648c760225de3.png)
 ## Hi there 👋, My name is Zahid Hasan.
 #### I am a Shopify Expert.
-![I am a Shopify Expert.]
+
 
 I have experience in building Shopify store with unique features and functionalities. I have over five years of expertise in web development and a passion for building e-commerce websites that are both useful and aesthetically pleasing.
 
